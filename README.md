@@ -21,8 +21,3 @@ Code for deep-tissue focusing through scattering brain tissue using binary-ampli
 ## License
 
 To be added with the code release.
-
-## Contact
-
-Renzhi He — [cobilab@ucdavis.edu](mailto:cobilab@ucdavis.edu)
-Department of Biomedical Engineering, University of California, Davis
